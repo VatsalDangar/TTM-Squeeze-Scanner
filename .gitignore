@@ -1,0 +1,7 @@
+__pycache__/
+Datasets/
+Datasets_LowCap/
+/SmallCap.csv
+/Tickers.csv
+/Timelog_LowCap.txt
+/Timelog_Sensex.txt
